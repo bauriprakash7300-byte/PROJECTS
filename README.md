@@ -1120,24 +1120,8 @@ The project can be extended into a more advanced embedded motor-control platform
 
 **Prakash Kumar**
 
-M.Tech | Embedded Systems / VLSI
+M.Tech | Embedded Systems Design 
 
 ### Technologies
 
 `STM32` `Embedded C` `FreeRTOS` `PWM` `PID` `ADC` `Timers` `UART` `Encoder`
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
-See the `LICENSE` file for details.
-
----
-
-## Project Status
-
-**Development / Hardware Validation**
-
-The firmware architecture and control modules are implemented for the reference STM32 configuration. Hardware measurements, PID tuning results, performance graphs, oscilloscope captures, and motor response data should be added after testing on the actual hardware.
